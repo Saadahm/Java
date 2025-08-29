@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class ArrayListt {
     public static void main(String[] args) {
@@ -50,6 +47,9 @@ public class ArrayListt {
 
         //List<Integer> list1 = List.of(1, 2);: immutable
         //List<Integer> list1 = new ArrayList<>(List.of(1, 2));: mutable
+
+
+
 
     }
 }

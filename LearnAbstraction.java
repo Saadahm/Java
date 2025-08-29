@@ -9,7 +9,8 @@ abstract class Animal {
 }
 
 // Subclass provides implementation
-class Dog extends Animal {
+class
+Dog extends Animal {
     @Override
     void makeSound() {
         System.out.println("Woof!");
